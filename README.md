@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=faridko26&color=orange&style=flat-square&label=how+many+people" alt="Profile Views" height="18">
+  <a href="https://www.linkedin.com/in/farid-koushaneh" target="_blank">
+    <img src="https://img.shields.io/badge/-connect with me-000?style=flat-square&logo=Linkedin&logoColor=0077B5" alt="LinkedIn" height="18"/>
+  </a>
+</p>
 
 **faridko26/faridko26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
