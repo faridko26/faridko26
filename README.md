@@ -2,10 +2,12 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=faridko26&color=orange&style=flat-square&label=Profile+Views" alt="Profile Views" height="18">
-  <a href="https://www.linkedin.com/in/farid-koushaneh" target="_blank">
-    <img src="https://img.shields.io/badge/-connect with me-000?style=flat-square&logo=Linkedin&logoColor=0077B5" alt="LinkedIn" height="18"/>
+  <a href="https://www.linkedin.com/in/farid-koushaneh" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=ffffff" alt="LinkedIn" height="18"/>
   </a>
 </p>
+
+
 
 <h3>Tech Stack</h3>
 <p>
