@@ -3,6 +3,7 @@
   Hey! Nice to see you. I'm Farid 👋
 </h1>
 
+
 <p>
   A passionate developer and tech enthusiast. I love coding, solving problems, and learning new things every day. I enjoy tackling challenges across the stack.
 </p>
